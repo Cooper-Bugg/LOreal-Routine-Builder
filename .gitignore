@@ -1,2 +1,19 @@
-# Secrets file containing API keys
+# API Keys and Secrets
+config.js
 secrets.js
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node modules (if you add any later)
+node_modules/
