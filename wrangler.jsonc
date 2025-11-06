@@ -1,5 +1,0 @@
-{
-  "name": "loreal-openai-proxy",
-  "main": "cloudflare-worker.js",
-  "compatibility_date": "2025-11-06"
-}
